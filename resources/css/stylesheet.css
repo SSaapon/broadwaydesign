@@ -1,6 +1,7 @@
 html{
   font-family: helvetica, san-serif;
   text-align: center;
+  margin:auto;
 }
 
 h1{
@@ -28,5 +29,6 @@ p{
 .footer{
   font-size: 11px;
   text-align:left;
+  color: white;
   background-color: dimgray;
 }
