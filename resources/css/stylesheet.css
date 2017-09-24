@@ -5,6 +5,18 @@ html{
 
 h1{
   font-size: 70px;
+  font-weight: bold;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size:14px;
 }
 .picbackground{
   background-image: url("/Users/Ezekiel/Projects/broadwaydesign/resources/images/the_flatiron_building.png");
