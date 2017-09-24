@@ -20,7 +20,7 @@ p{
   font-size:14px;
 }
 .picbackground{
-  background-image: url("/Users/Ezekiel/Projects/broadwaydesign/resources/images/the_flatiron_building.png");
+  background-image: url("the-flatiron-building.png");
   color: white;
 }
 #lnk{
