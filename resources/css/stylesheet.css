@@ -1,0 +1,13 @@
+html{
+  font-family: helvetica, san-serif;
+  text-align: center;
+}
+
+h1{
+  font-size: 70px;
+}
+
+.picbackground{
+  background-image: url("/Users/Ezekiel/Projects/broadwaydesign/resources/images/the_flatiron_building.png");
+  color: white;
+}
