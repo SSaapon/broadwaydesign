@@ -6,8 +6,15 @@ html{
 h1{
   font-size: 70px;
 }
-
 .picbackground{
   background-image: url("/Users/Ezekiel/Projects/broadwaydesign/resources/images/the_flatiron_building.png");
   color: white;
+}
+#lnk{
+  font-size: 18px;
+}
+.footer{
+  font-size: 11px;
+  text-align:left;
+  background-color: dimgray;
 }
